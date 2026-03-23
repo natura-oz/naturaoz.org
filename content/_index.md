@@ -1,12 +1,21 @@
 ---
-title: Welcome
+title: NATURA, občianske združenie
+override_title: NATURA - občianske združenie
+aliases:
+  - /NATURA.html
 ---
 
-Welcome to **Natura Oz** — a simple, minimalistic website built with Hugo.
+Ilkovičova 6 \
+842 15 Bratislava 4
 
-This site features a clean and responsive design with:
-- A clean navbar for navigation
-- A focused main content area
-- A simple footer
+e-mail: [webmaster@naturaoz.org](mailto:webmaster@naturaoz.org)\
+web: <http://www.naturaoz.org/>
 
-Browse the [posts](/posts/) section to see more content.
+IČO: **30855861**\
+Bankové spojenie: **262 5012 545 / 1100 (Tatra banka, a.s.)**\
+IBAN: **SK28 1100 0000 0026 2501 2545**
+
+## Dôležité linky
+
+- [http://www.biocenter.sk/](http://www.biocenter.sk/)
+- [http://compbio.fmph.uniba.sk/](http://compbio.fmph.uniba.sk/)
