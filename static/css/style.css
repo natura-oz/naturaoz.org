@@ -238,3 +238,141 @@ img[src$='#floatright'] {
 	float: right;
   margin-left: 1rem;
 }
+
+/* Gallery styles */
+.gallery-list {
+  display: grid;
+  gap: 2rem;
+  margin-top: 2rem;
+}
+
+.gallery-preview h2 {
+  margin-top: 0;
+}
+
+.gallery-preview h2 a {
+  text-decoration: none;
+  color: var(--text-color);
+}
+
+.gallery-preview h2 a:hover {
+  color: var(--link-color);
+}
+
+.gallery-date {
+  font-style: italic;
+  color: var(--muted-color);
+  margin: 0;
+}
+
+.gallery-description,
+.gallery-summary {
+  color: var(--text-color);
+}
+
+.gallery-preview-images {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 0.5rem;
+  margin-top: 1rem;
+  text-decoration: none;
+  font-weight: normal;
+}
+
+.gallery-preview-images:hover {
+  text-decoration: none;
+}
+
+.gallery-preview-images img {
+  border-radius: 4px;
+  transition: opacity 0.2s;
+}
+
+.gallery-more {
+  grid-column: 1 / -1;
+  color: var(--muted-color);
+  font-style: italic;
+  text-align: center;
+  font-size: 0.75rem;
+  margin: 0;
+}
+
+/* Fancybox gallery */
+.fancybox-gallery {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 1rem;
+  margin: 1.5rem 0;
+}
+
+.gallery-item {
+  margin-bottom: 0;
+}
+
+.gallery-item a {
+  display: block;
+  border-radius: 8px;
+  overflow: hidden;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.gallery-item a:hover {
+  transform: scale(1.02);
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.25);
+}
+
+.gallery-item img {
+  display: block;
+  width: 100%;
+  height: auto;
+  object-fit: cover;
+  aspect-ratio: 3/2;
+}
+
+/* Figure/image styles */
+.figure {
+  margin: 1.5rem 0;
+}
+
+.figure img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 8px;
+}
+
+.fancybox-image-link {
+  display: inline-block;
+}
+
+.fancybox-image-link:hover img {
+  opacity: 0.9;
+}
+
+.caption {
+  margin-top: 0.5rem;
+  font-size: 0.9rem;
+  color: var(--muted-color);
+  font-style: italic;
+}
+
+/* Responsive gallery */
+@media (max-width: 768px) {
+  .fancybox-gallery {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  .gallery-preview-images {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+
+@media (max-width: 480px) {
+  .fancybox-gallery {
+    grid-template-columns: repeat(1, 1fr);
+  }
+
+  .gallery-preview-images {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}

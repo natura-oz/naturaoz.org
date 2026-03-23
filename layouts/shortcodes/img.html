@@ -1,0 +1,70 @@
+{{/* Image shortcode with Fancybox support */}}
+{{- $src := .Get "src" -}}
+{{- $page := .Page -}}
+
+{{/* Find the image resource */}}
+{{- $img := $page.Resources.GetMatch $src -}}
+
+{{- if not $img -}}
+  {{/* Try getting from root */}}
+  {{- $img = resources.Get $src -}}
+{{- end -}}
+
+{{- if not $img -}}
+  <p class="error">Image not found: {{ $src }}</p>
+{{- else -}}
+  {{- $thumbWidth := int (.Get "thumbWidth" | default 800) -}}
+  {{- $thumbHeight := int (.Get "thumbHeight" | default 0) -}}
+  {{- $class := .Get "class" | default "content-image" -}}
+  {{- $caption := .Get "caption" -}}
+  {{- $alt := .Get "alt" | default ($img.Title | default $img.Name) -}}
+  {{- $group := .Get "group" | default "default" -}}
+
+  {{- /* Generate thumbnail if dimensions specified */}}
+  {{- if or (ne $thumbWidth 0) (ne $thumbHeight 0) -}}
+    {{- $img = $img.Resize (printf "%dx%d" $thumbWidth $thumbHeight) -}}
+  {{- end -}}
+
+  {{- $captionText := "" -}}
+  {{- if $caption -}}
+    {{- $captionText = $caption -}}
+  {{- else if .Inner -}}
+    {{- $captionText = .Inner -}}
+  {{- else if $img.Params.caption -}}
+    {{- $captionText = $img.Params.caption -}}
+  {{- else if $img.Title -}}
+    {{- $captionText = $img.Title -}}
+  {{- end -}}
+
+  <figure class="figure {{ $class }}">
+    {{- if .Get "fancybox" | default true -}}
+      <a
+        data-fancybox="{{ $group }}"
+        data-src="{{ $img.RelPermalink }}"
+        data-caption="{{ $captionText }}"
+        href="{{ $img.RelPermalink }}"
+        class="fancybox-image-link"
+      >
+        <img
+          src="{{ $img.RelPermalink }}"
+          alt="{{ $alt }}"
+          {{ if $img.Width }}width="{{ $img.Width }}"{{ end }}
+          {{ if $img.Height }}height="{{ $img.Height }}"{{ end }}
+          loading="lazy"
+        />
+      </a>
+    {{- else -}}
+      <img
+        src="{{ $img.RelPermalink }}"
+        alt="{{ $alt }}"
+        {{ if $img.Width }}width="{{ $img.Width }}"{{ end }}
+        {{ if $img.Height }}height="{{ $img.Height }}"{{ end }}
+        loading="lazy"
+      />
+    {{- end -}}
+
+    {{- if $captionText -}}
+      <figcaption class="caption">{{ $captionText }}</figcaption>
+    {{- end -}}
+  </figure>
+{{- end -}}

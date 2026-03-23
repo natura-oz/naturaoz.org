@@ -1,0 +1,121 @@
+{{- $page := .Page -}}
+{{- $images := slice -}}
+
+{{/* Get images from page resources if no explicit list provided */}}
+{{- if .Get "images" -}}
+  {{- /* Parse explicit image list */}}
+  {{- range split (.Get "images") "," -}}
+    {{- $imgPath := trim . " " -}}
+    {{- $img := $page.Resources.GetMatch $imgPath -}}
+    {{- if $img -}}
+      {{- $images = $images | append $img -}}
+    {{- end -}}
+  {{- end -}}
+{{- else -}}
+  {{- $images = $page.Resources.ByType "image" -}}
+  {{- if .Get "match" -}}
+    {{- $images = $images.Match (.Get "match") -}}
+  {{- end -}}
+{{- end -}}
+
+{{/* Sort images if requested */}}
+{{- if eq (.Get "sort") "date" -}}
+  {{- $images = $images.ByDate -}}
+{{- else if eq (.Get "sort") "name" -}}
+  {{- /* Sort by name using scratch */}}
+  {{- $sorted := slice -}}
+  {{- range sort $images ".Name" -}}
+    {{- $sorted = $sorted | append . -}}
+  {{- end -}}
+  {{- $images = $sorted -}}
+{{- end -}}
+
+{{/* Gallery configuration */}}
+{{- $thumbWidth := int (.Get "thumbWidth" | default 300) -}}
+{{- $thumbHeight := int (.Get "thumbHeight" | default 200) -}}
+{{- $columns := int (.Get "columns" | default 3) -}}
+{{- $caption := .Get "caption" | default true -}}
+{{- $dataFancybox := .Get "group" | default "gallery" -}}
+
+<div class="fancybox-gallery cols-{{ $columns }}{{ if .Get "class" }} {{ .Get "class" }}{{ end }}">
+  {{- range $images -}}
+    {{- $thumbSize := printf "%dx%d" $thumbWidth $thumbHeight -}}
+    {{- $thumb := .Resize $thumbSize -}}
+    {{- $full := . -}}
+    {{- $imgCaption := "" -}}
+
+    {{- /* Determine caption */}}
+    {{- if $.Get "caption" -}}
+      {{- if ne $.Get "caption" "false" -}}
+        {{- if .Params.caption -}}
+          {{- $imgCaption = .Params.caption -}}
+        {{- else if .Title -}}
+          {{- $imgCaption = .Title -}}
+        {{- else -}}
+          {{- $imgCaption = .Name -}}
+        {{- end -}}
+      {{- end -}}
+    {{- end -}}
+
+    <div class="gallery-item">
+      <a
+        data-fancybox="{{ $dataFancybox }}"
+        data-src="{{ $full.RelPermalink }}"
+        data-caption="{{ $imgCaption }}"
+        href="{{ $full.RelPermalink }}"
+        class="fancybox-link"
+      >
+        <img
+          src="{{ $thumb.RelPermalink }}"
+          alt="{{ $imgCaption }}"
+          loading="lazy"
+          width="{{ $thumb.Width }}"
+          height="{{ $thumb.Height }}"
+        />
+      </a>
+    </div>
+  {{- end -}}
+</div>
+
+{{/* Add Fancybox CSS and JS if not already added */}}
+{{- if not ($.Page.Scratch.Get "fancybox_loaded") -}}
+  {{- $.Page.Scratch.Set "fancybox_loaded" true -}}
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fancyapps/ui@5.0/dist/fancybox/fancybox.css" />
+  <script src="https://cdn.jsdelivr.net/npm/@fancyapps/ui@5.0/dist/fancybox/fancybox.umd.js"></script>
+  <script>
+    Fancybox.bind('[data-fancybox]', {
+      Toolbar: {
+        display: {
+          left: ["infobar"],
+          middle: [
+            "zoomIn",
+            "zoomOut",
+            "toggle1to1",
+            "rotateCCW",
+            "rotateCW",
+            "flipX",
+            "flipY",
+          ],
+          right: ["slideshow", "thumbs", "close"],
+        },
+      },
+      l10n: {
+        CLOSE: "Zavrieť",
+        NEXT: "Ďalší",
+        PREV: "Predchádzajúci",
+        MODAL: "Môžete tento modal zavrieť stlačením klávesu ESC",
+        ERROR: "Niečo sa pokazilo. Prosím, skúste to znova neskôr",
+        IMAGE_ERROR: "Obrázok sa nepodarilo načítať",
+        ELEMENT_NOT_FOUND: "HTML element sa nenašiel",
+        AJAX_NOT_FOUND: "Chyba pri načítaní AJAX",
+        AJAX_FORBIDDEN: "Chyba pri načítaní AJAX",
+        IFRAME_ERROR: "Chyba pri načítaní stránky",
+        TOGGLE_ZOOM: "Prepnúť priblíženie",
+        TOGGLE_THUMBS: "Prepnúť náhľady",
+        TOGGLE_SLIDESHOW: "Prepnúť prezentáciu",
+        TOGGLE_FULLSCREEN: "Prepnúť na celú obrazovku",
+        DOWNLOAD: "Stiahnuť",
+      },
+    });
+  </script>
+{{- end -}}

@@ -1,0 +1,41 @@
+{{ define "main" }}
+  {{ if not .Params.hide_title }}
+  <h1>{{ .Title }}</h1>
+  {{ end }}
+  <div class="content">
+    {{ .Content }}
+  </div>
+
+  <div class="gallery-list">
+    {{ range .Pages.ByDate.Reverse }}
+      <article class="gallery-preview">
+        <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+        {{ if .Date }}
+        <p class="gallery-date">
+          {{ .Date.Format "2. 1. 2006" }}
+        </p>
+        {{ end }}
+        {{ if .Description }}
+        <p class="gallery-description">{{ .Description }}</p>
+        {{ end }}
+        {{ if .Params.summary }}
+        <p class="gallery-summary">{{ .Params.summary }}</p>
+        {{ end }}
+
+        {{/* Show a preview of images if available */}}
+        {{ $images := .Resources.ByType "image" }}
+        {{ if gt (len $images) 0 }}
+          <a class="gallery-preview-images" href="{{ .RelPermalink }}">
+            {{ range first 4 $images }}
+              {{ $thumb := .Resize "200x150" }}
+              <img src="{{ $thumb.RelPermalink }}" alt="{{ .Title | default .Name }}" loading="lazy" />
+            {{ end }}
+            {{ if gt (len $images) 4 }}
+              <p class="gallery-more">+ {{ sub (len $images) 4 }} ďalších fotiek</p>
+            {{ end }}
+          </a>
+        {{ end }}
+      </article>
+    {{ end }}
+  </div>
+{{ end }}
