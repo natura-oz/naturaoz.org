@@ -14,7 +14,7 @@ aliases:
 
 - [Central European Meeting on Genome Stability and Dynamics](/genome-stability-and-dynamics/)
 
-- [Fond Petra Fedora / Cena Petra Fedora](/TODO)\
+- [Fond Petra Fedora / Cena Petra Fedora](/peter-fedor/)\
   od roku 2009 prebralo Občianske združenie NATURA záštitu nad Fondom Petra Fedora
 
 - [Kuželove semináre](/kuzelove-seminare/)\
