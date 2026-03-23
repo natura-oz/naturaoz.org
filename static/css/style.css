@@ -1,0 +1,205 @@
+:root {
+  --bg-color: #fff;
+  --text-color: #333;
+  --muted-color: #666;
+  --border-color: #e0e0e0;
+  --link-color: #2a8139;
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: system-ui, -apple-system, sans-serif;
+  line-height: 1.6;
+  color: var(--text-color);
+  background-color: var(--bg-color);
+}
+
+a {
+  color: var(--link-color);
+  text-decoration: none;
+  font-weight: bold;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* Navbar */
+.navbar {
+  position: sticky;
+  top: 0;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 1rem 1.5rem 1rem 1.5rem;
+  background-color: var(--bg-color);
+  z-index: 100;
+}
+
+.navbar-brand {
+  display: flex;
+  align-items: center;
+  gap: 1.2rem;
+  font-size: 1.25rem;
+  font-weight: 600;
+}
+
+.navbar-logo {
+  height: 4rem;
+  width: auto;
+  display: block;
+}
+
+.navbar-nav {
+  display: flex;
+  gap: 1.5rem;
+}
+
+.navbar-nav a {
+  color: var(--text-color);
+}
+
+/* Hamburger button */
+.navbar-toggle {
+  display: none;
+  flex-direction: column;
+  background: none;
+  border: none;
+  cursor: pointer;
+  padding: 0.5rem;
+}
+
+.navbar-toggle span {
+  width: 24px;
+  height: 2px;
+  background-color: var(--text-color);
+  margin: 3px 0;
+  transition: 0.3s;
+}
+
+/* Main */
+.main {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 3rem 1.5rem;
+}
+
+/* Footer */
+.footer {
+  padding: 1.5rem 1.5rem 3rem 1.5rem;
+  border-top: 1px solid var(--border-color);
+  background-color: var(--bg-color);
+  text-align: center;
+  color: var(--muted-color);
+  font-size: 0.875rem;
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+/* Content */
+h1 {
+  margin-bottom: 1rem;
+}
+
+.content {
+  margin-top: 1.5rem;
+}
+
+.content h2 {
+  margin: 2rem 0 1rem;
+}
+
+.content p {
+  margin: 1rem 0;
+}
+
+.content ul,
+.content ol {
+  margin: 1rem 0;
+  padding-left: 1.5rem;
+}
+
+.content li {
+  margin: 0.5rem 0;
+}
+
+/* Posts */
+.post {
+  margin-top: 1rem;
+}
+
+.post-date {
+  display: block;
+  color: var(--muted-color);
+  font-size: 0.875rem;
+  margin: 0.5rem 0 1.5rem;
+}
+
+.back-link {
+  margin-top: 2rem;
+}
+
+/* Post list */
+.post-list {
+  margin-top: 1.5rem;
+}
+
+.post-item {
+  padding: 1.5rem 0;
+  border-bottom: 1px solid var(--border-color);
+}
+
+.post-item:last-child {
+  border-bottom: none;
+}
+
+.post-item h2 {
+  margin-bottom: 0.5rem;
+}
+
+.post-item .summary {
+  color: var(--muted-color);
+}
+
+/* Responsive */
+@media (max-width: 640px) {
+  .navbar {
+    padding: 2rem 1rem 1rem 1rem;
+    flex-wrap: wrap;
+  }
+
+  .navbar-brand {
+    flex-grow: 1;
+  }
+
+  .navbar-toggle {
+    display: flex;
+  }
+
+  .navbar-nav {
+    display: none;
+    flex-direction: column;
+    gap: 1rem;
+    width: 100%;
+    order: 3;
+  }
+
+  .navbar-nav.active {
+    display: flex;
+  }
+
+  .main {
+    padding: 2rem 1rem;
+  }
+
+  .footer {
+    padding: 1.5rem 1rem 2rem 1rem;
+  }
+}

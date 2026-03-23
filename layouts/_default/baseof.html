@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.Language.Lang }}">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ .Title }} | {{ .Site.Title }}</title>
+  <link rel="stylesheet" href="{{ "css/style.css" | relURL }}">
+  {{ block "head" . }}{{ end }}
+</head>
+<body>
+  <header class="navbar">
+    <a href="/" class="navbar-brand">
+      <img src="{{ "logo.jpg" | relURL }}" alt="Logo" class="navbar-logo">
+      <span>{{ .Site.Title }}</span>
+    </a>
+
+    <button class="navbar-toggle" aria-label="Toggle navigation">
+      <span></span>
+      <span></span>
+      <span></span>
+    </button>
+
+    <nav class="navbar-nav">
+      <a href="/">Home</a>
+      <a href="/posts/">Posts</a>
+    </nav>
+  </header>
+
+  <main class="main">
+    {{ block "main" . }}{{ end }}
+  </main>
+
+  <footer class="footer">
+    <p>&copy; {{ now.Year }} {{ .Site.Title }}, o.z.</p>
+  </footer>
+
+  <script>
+    document.querySelector('.navbar-toggle').addEventListener('click', function() {
+      document.querySelector('.navbar-nav').classList.toggle('active');
+    });
+  </script>
+</body>
+</html>

@@ -1,0 +1,6 @@
+baseURL = "https://naturaoz.org/"
+languageCode = "sk"
+title = "NATURA"
+
+[params]
+  description = "A simple Hugo site"
