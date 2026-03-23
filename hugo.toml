@@ -1,6 +1,36 @@
 baseURL = "https://naturaoz.org/"
-languageCode = "sk"
-title = "NATURA"
+languageCode = "sk-sk"
+defaultContentLanguage = "sk"
+title = "NATURA, o.z."
+
+[markup.goldmark.renderer]
+  unsafe = true
 
 [params]
-  description = "A simple Hugo site"
+  description = "NATURA - občianske združenie podporujúce výskumné a vzdelávacie aktivity v biomedicínskych vedách"
+
+[menu]
+   [[menu.main]]
+    name = "Aktivity"
+    url = "/aktivity/"
+    weight = 1
+
+   [[menu.main]]
+    name = "Kuželove semináre"
+    url = "/kuzelove-seminare/"
+    weight = 2
+
+   [[menu.main]]
+    name = "Natura Lectures"
+    url = "/natura-lectures/"
+    weight = 3
+
+   [[menu.main]]
+    name = "Peter Fedor"
+    url = "/peter-fedor/"
+    weight = 4
+
+   [[menu.main]]
+    name = "TalNet Project"
+    url = "/talnet-project/"
+    weight = 8

@@ -27,7 +27,7 @@ aliases:
 
 - [Projekt Slovenskej Virtuálnej Univerzity](http://ii.fmph.uniba.sk/~benus/SVU/svu.html)
 
-- [Projekt TalNet / BioWorkshop a ChemWorkshop](/TODO)\
+- [Projekt TalNet / BioWorkshop a ChemWorkshop](/talnet-project/)\
   Sieť pre systematické vyhľadávanie talentovaných stredoškolských študentov pre
   biomedicínske vedy
 
@@ -49,20 +49,23 @@ aliases:
   finančne podporilo rekonštrukciu laboratória CH1-206 na Katedre biochémie Prírodovedeckej
   fakulty UK v Bratislave (júl 2014).
 
-- [Seminárna miestnosť profesora Štefana Kuželu](/TODO). Občianske združenie Natura
-  finančne podporilo rekonštrukciu seminárnej miestnosti CH1-222 v budove Prírodovedeckej
-  fakulty UK v Bratislave, ktorá bola pomenovaná na počesť profesora Kuželu.
+- [Seminárna miestnosť profesora Štefana Kuželu](/kuzelove-seminare/).
+  Občianske združenie
+  Natura finančne podporilo rekonštrukciu seminárnej miestnosti CH1-222 v budove
+  Prírodovedeckej fakulty UK v Bratislave, ktorá bola pomenovaná na počesť profesora
+  Kuželu.
 
 - Od roku 2007 podporujeme prednášky špičkových mladých vedeckých pracovníkov v
   oblasti biochémie, genetiky, molekulárnej a bunkovej biológie kvasiniek formou
-  pozvaných [Natura lectures](/TODO) v rámci série Výročných konferencií o kvasinkách.
+  pozvaných [Natura lectures](/natura-lectures/) v rámci série Výročných konferencií
+  o kvasinkách.
 
 ## Naše doterajšie úspešné akcie
 
 - **XXII International Conference on Yeast Genetics and Molecular Biology**\
   Bratislava, 7.-12. augusta 2005
 
-- [Letná škola bioinformatiky pre doktorandov 2007](/TODO)\
+- [Letná škola bioinformatiky pre doktorandov 2007](http://compgen.bscb.cornell.edu/~tvinar/lsb2007/)\
   Bratislava, 13.-18. júla 2007
 
 - **35\. výročná konferencia o kvasinkách**\
@@ -77,7 +80,7 @@ aliases:
 - [Konferencia Evolúcia Quo Vadis?!](http://www.fns.uniba.sk/?evo08)\
   Donovaly, 19.-22. júna 2008
 
-- [Spoznaj svoju DNA]() v rámci projektu [Noc výskumníka](http://www.sovva.sk/noc-vyskumnika-2008/) (26.-27. septembra 2008)\
+- [Spoznaj svoju DNA](TODO) v rámci projektu [Noc výskumníka](http://www.sovva.sk/noc-vyskumnika-2008/) (26.-27. septembra 2008)\
   v spolupráci so Slovenskou organizáciou pre výskumné a vývojové aktivity
 
 Chémia v biológii, biológia v chémii
