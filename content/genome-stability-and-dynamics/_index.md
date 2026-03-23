@@ -2,7 +2,7 @@
 title: Genome Stability and Dynamics
 hide_title: true
 aliases:
-- /GenomeStability%26Dynamics.html
+  - /GenomeStability%26Dynamics.html
 ---
 
 # Central European Meeting on Genome Stability and Dynamics

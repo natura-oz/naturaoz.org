@@ -228,3 +228,13 @@ h1 {
     font-size: 0.9rem;
   }
 }
+
+img[src$='#floatleft'] {
+	float: left;
+  margin-right: 1rem;
+}
+
+img[src$='#floatright'] {
+	float: right;
+  margin-left: 1rem;
+}

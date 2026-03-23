@@ -1,7 +1,7 @@
 ---
-title: "How to reach us"
+title: How to reach us
 aliases:
-- "/HowToReachUs.html"
+  - /HowToReachUs.html
 ---
 
 <iframe width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.sk/?ie=UTF8&amp;ll=48.14719,17.076573&amp;spn=0.016321,0.036521&amp;z=15&amp;output=embed"></iframe>
