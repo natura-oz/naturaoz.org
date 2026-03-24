@@ -36,6 +36,16 @@ title = "NATURA, o.z."
     weight = 5
 
    [[menu.main]]
+    name = "Ocenenia"
+    url = "/ocenenia/"
+    weight = 6
+
+   [[menu.main]]
+    name = "Journal Club"
+    url = "/journal-club/"
+    weight = 7
+
+   [[menu.main]]
     name = "TalNet Project"
     url = "/talnet-project/"
     weight = 8
