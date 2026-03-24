@@ -91,7 +91,7 @@ _Ústav biochémie a genetiky živočíchov SAV, Ivanka pri Dunaji_\
 za vynikajúce výsledky v štúdiu mechanizmov spevu v mozgu spevavcov
 
 [Pozvánka](../pozvanky/Pozvanka_CPF_2014.pdf) |
-[Mini fotogaléria](http://naturaoz.org/FPFGallery2013.html) |
+[Fotogaléria](../galerie/2013) |
 [Aktuality SAV](http://www.sav.sk/index.php?lang=sk&charset=&doc=services-news&source_no=20&news_no=5268)
 
 ## Cena Petra Fedora za rok 2012
@@ -102,14 +102,14 @@ Komenského v Bratislave_\
 za vynikajúce výsledky v modelovaní akvizície a vývoja jazyka
 
 [Pozvánka](../pozvanky/Pozvanka_CPF_2011.pdf) |
-[Mini fotogaléria](http://naturaoz.org/FPFGallery2011.html)
+[Fotogaléria](../galerie/2011-2012)
 
 **RNDr. Jana Korduláková, PhD.**\
 _Katedra biochémie, Prírodovedecká fakulta, Univerzita Komenského v Bratislave_\
 za vynikajúce výsledky vo výskume biosyntézy bunkovej steny mykobaktérií
 
 [Pozvánka](../pozvanky/Pozvanka_CPF_2011_1.pdf) |
-[Mini fotogaléria](http://naturaoz.org/FPFGallery2011.html)
+[Fotogaléria](../galerie/2011-2012)
 
 ## Cena Petra Fedora za rok 2011
 
@@ -119,7 +119,7 @@ am Main, Germany_\
 za vynikajúce výsledky v štúdiu funkčnej konektivity mozgu
 
 [Pozvánka](../pozvanky/Pozvanka_CPF_2011_2.pdf) |
-[Mini fotogaléria](http://naturaoz.org/FPFGallery2011.html)
+[Fotogaléria](../galerie/2011-2012)
 
 ## Cena Petra Fedora za rok 2010
 
@@ -128,7 +128,7 @@ _NeuroScience Center, Johann Wolfgang Goethe-University, Frankfurt am Main, Germ
 za vynikajúce výsledky v experimentálnom a teoretickom štúdiu hipokampu
 
 [Pozvánka](../pozvanky/Pozvanka_CPF_2010.pdf) |
-[Mini fotogaléria](http://naturaoz.org/FPFGallery2010.html)
+[Fotogaléria](../galerie/2010)
 
 ## Cena Petra Fedora za rok 2009
 
@@ -138,7 +138,7 @@ v Bratislave_\
 za vynikajúce výsledky v rozvíjaní nových bioinformatických metód analýzy génov
 
 [Pozvánka](../pozvanky/Pozvanka_CPF_2009.pdf) |
-[Mini fotogaléria](http://naturaoz.org/FPFGallery2009.html)
+[Fotogaléria](../galerie/2008-2009)
 
 ## Cena Petra Fedora za rok 2008
 
@@ -148,7 +148,7 @@ Komenského v Bratislave_\
 za vynikajúce výsledky v rozvíjaní nových bioinformatických metód analýzy genómov
 
 [Pozvánka](../pozvanky/Pozvanka_CPF_2009_1.pdf) |
-[Mini fotogaléria](http://naturaoz.org/FPFGallery2009.html)
+[Fotogaléria](../galerie/2008-2009)
 
 ## Cena Petra Fedora za rok 2007
 
@@ -179,7 +179,7 @@ _Katedra aplikovanej informatiky, Fakulta matematiky, fyziky a informatiky, Univ
 Komenského v Bratislave_\
 za vynikajúce výsledky v oblasti počítačového modelovania jazykových funkcií mozgu
 
-[Mini fotogaléria](http://naturaoz.org/FPFGallery2004.html)
+[Fotogaléria](../galerie/2004)
 
 ## Cena Petra Fedora za rok 2001
 
