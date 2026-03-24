@@ -12,7 +12,7 @@ aliases:
 Faculty of Natural Sciences, Comenius University in Bratislava\
 Mlynská dolina B-1 / Amos, 842 15 Bratislava 4, Slovakia
 
-[Photo gallery](TODO)
+[Photo gallery](./photo-gallery/)
 
 ## **Program**
 
