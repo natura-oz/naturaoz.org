@@ -39,3 +39,13 @@ title = "NATURA, o.z."
     name = "TalNet Project"
     url = "/talnet-project/"
     weight = 8
+
+   [[menu.main]]
+    name = "Fotosúťaž"
+    url = "/fotosutaz/"
+    weight = 9
+
+   [[menu.main]]
+    name = "Podporte nás"
+    url = "/podporte-nas/"
+    weight = 10
