@@ -64,6 +64,9 @@ a:hover {
   display: flex;
   gap: 0.5rem 1rem;
   align-items: center;
+  flex-wrap: wrap;
+  justify-content: flex-end;
+  margin-left: 2rem;
 }
 
 .navbar-nav a {
