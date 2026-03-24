@@ -265,7 +265,8 @@ We will never forget.
 - 100\. Lecture [03/13/2015]\
   **From little science to Big Science**\
   *Gottfried Schatz* - University of Basel, Switzerland\
-  [Abstract](./abstrakty/Gottfried_Schatz_Pozvanka.pdf)
+  [Abstract](./abstrakty/Gottfried_Schatz_Pozvanka.pdf) |
+  [Photo gallery](./galeria-2015/)
 
 - 99\. Lecture [02/26/2015]\
   **Plant chromosome genomics**\
