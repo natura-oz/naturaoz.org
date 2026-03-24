@@ -31,6 +31,11 @@ title = "NATURA, o.z."
     weight = 4
 
    [[menu.main]]
+    name = "Galérie"
+    url = "/galerie/"
+    weight = 5
+
+   [[menu.main]]
     name = "TalNet Project"
     url = "/talnet-project/"
     weight = 8

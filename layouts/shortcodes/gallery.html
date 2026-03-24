@@ -40,7 +40,7 @@
 <div class="fancybox-gallery cols-{{ $columns }}{{ if .Get "class" }} {{ .Get "class" }}{{ end }}">
   {{- range $images -}}
     {{- $thumbSize := printf "%dx%d" $thumbWidth $thumbHeight -}}
-    {{- $thumb := .Resize $thumbSize -}}
+    {{- $thumb := .Fill $thumbSize -}}
     {{- $full := . -}}
     {{- $imgCaption := "" -}}
 
@@ -58,21 +58,21 @@
     {{- end -}}
 
     <div class="gallery-item">
-      <a
-        data-fancybox="{{ $dataFancybox }}"
-        data-src="{{ $full.RelPermalink }}"
-        data-caption="{{ $imgCaption }}"
-        href="{{ $full.RelPermalink }}"
-        class="fancybox-link"
-      >
-        <img
-          src="{{ $thumb.RelPermalink }}"
-          alt="{{ $imgCaption }}"
-          loading="lazy"
-          width="{{ $thumb.Width }}"
-          height="{{ $thumb.Height }}"
-        />
-      </a>
+      <div class="gallery-item-wrapper">
+        <a
+          data-fancybox="{{ $dataFancybox }}"
+          data-src="{{ $full.RelPermalink }}"
+          data-caption="{{ $imgCaption }}"
+          href="{{ $full.RelPermalink }}"
+          class="fancybox-link"
+        >
+          <img
+            src="{{ $thumb.RelPermalink }}"
+            alt="{{ $imgCaption }}"
+            loading="lazy"
+          />
+        </a>
+      </div>
     </div>
   {{- end -}}
 </div>
