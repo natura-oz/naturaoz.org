@@ -39,7 +39,7 @@
 
 <div class="fancybox-gallery cols-{{ $columns }}{{ if .Get "class" }} {{ .Get "class" }}{{ end }}">
   {{- range $images -}}
-    {{- $thumbSize := printf "%dx%d" $thumbWidth $thumbHeight -}}
+    {{- $thumbSize := printf "%dx%d Smart" $thumbWidth $thumbHeight -}}
     {{- $thumb := .Fill $thumbSize -}}
     {{- $full := . -}}
     {{- $imgCaption := "" -}}

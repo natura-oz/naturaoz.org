@@ -27,7 +27,7 @@
         {{ if gt (len $images) 0 }}
           <a class="gallery-preview-images" href="{{ .RelPermalink }}">
             {{ range first 4 $images }}
-              {{ $thumb := .Fill "200x150" }}
+              {{ $thumb := .Fill "200x150 Smart" }}
               <img src="{{ $thumb.RelPermalink }}" alt="{{ .Title | default .Name }}" loading="lazy" />
             {{ end }}
             {{ if gt (len $images) 4 }}
