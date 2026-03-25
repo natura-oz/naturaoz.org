@@ -74,95 +74,78 @@ aliases:
 - **36\. výročná konferencia o kvasinkách**\
   Smolenice, 14.-16. mája 2008
 
-- [Obrázky z ciest](/TODO)\
+- **Obrázky z ciest**\
   výstava fotografií z albumu rodiny Kolarov, Bratislava, 1.2.-30.4.2008
 
 - [Konferencia Evolúcia Quo Vadis?!](http://www.fns.uniba.sk/?evo08)\
   Donovaly, 19.-22. júna 2008
 
-- [Spoznaj svoju DNA](TODO) v rámci projektu [Noc výskumníka](http://www.sovva.sk/noc-vyskumnika-2008/) (26.-27. septembra 2008)\
+- [Spoznaj svoju DNA](/galerie/2008/) v rámci projektu [Noc výskumníka](http://www.sovva.sk/noc-vyskumnika-2008/) (26.-27. septembra 2008)\
   v spolupráci so Slovenskou organizáciou pre výskumné a vývojové aktivity
 
-Chémia v biológii, biológia v chémii
+- [Chémia v biológii, biológia v chémii](/talnet-project/)\
+  prednáškové dopoludnie pre stredoškolských študentov, pedagógov a ďalších záujemcov(7. novembra 2008)
 
-prednáškové dopoludnie pre stredoškolských študentov, pedagógov a ďalších záujemcov(7. novembra 2008)
+- [BioWorkshop a ChemWorkshop](/talnet-project/)\
+  sústredenia pre stredoškolských študentov z celej Slovenskej republiky (1.-5. decembra 2008)
 
-BioWorkshop a ChemWorkshop
+- [Cenu Petra Fedora](/peter-fedor/fond/) za roky 2008 a 2009 získali Dr. Tomáš Vinař a Dr. Broňa Brejová (5. februára 2009)\
+  [Pozvánka](/peter-fedor/pozvanky/Pozvanka_CPF_2009.pdf) | [Mini Fotogaléria](/peter-fedor/galerie/2008-2009/)
 
-sústredenia pre stredoškolských študentov z celej Slovenskej republiky (1.-5. decembra 2008)
+- **37. výročná konferencia o kvasinkách**\
+  Smolenice, 13.-15. mája 2009
 
-Cenu Petra Fedoraza roky 2008 a 2009 získali Dr. Tomáš Vinař a Dr. Broňa Brejová (5. februára 2009)
+- **Letná škola bioinformatiky pre doktorandov 2009**\
+  Modra, 31.8.-5.9.2009
 
-[Pozvánka] [MiniFotoGaléria]
+- [Spoznaj svoju DNA](/galerie/2009/) v rámci projektu [Noc výskumníka](http://www.sovva.sk/noc-vyskumnika-2009/) (25. septembra 2009)\
+  v spolupráci so Slovenskou organizáciou pre výskumné a vývojové aktivity (SOVVA)
 
-37. výročná konferencia o kvasinkách
+- [Darwinov deň](./Darwinov_den_Pozvanka.pdf)\
+  prednáškové dopoludnie pre stredoškolských študentov, pedagógov a ďalších záujemcov (6. novembra 2009)
 
-Smolenice, 13.-15. mája 2009
+- [Cenu Petra Fedora](/peter-fedor/fond/) za rok 2010 získal [Dr. Peter Jedlička](http://sites.google.com/site/peterjedlicka/) (19. februára 2010)\
+  [Pozvánka](/peter-fedor/pozvanky/Pozvanka_CPF_2010.pdf) | [Mini Fotogaléria](/peter-fedor/galerie/2010/)
 
-Letná škola bioinformatiky pre doktorandov 2009
+- **38. výročná konferencia o kvasinkách**\
+  Smolenice, 11.-14. mája 2010
 
-Modra, 31.8.-5.9.2009
+- **Výstava fotografií “Myanmar a Vietnam - Ľudia a krajina”** (od 20. mája 2010)\
+  [Pozvánka](./Myanmar_Vietnam.jpg)
 
-Spoznaj svoju DNAv rámci projektuNoc výskumníka(25. septembra 2009)
+- [Veľká fotosúťaž pri príležitosti 70-teho výročia založenia Prírodovedeckej fakulty UK](/fotosutaz/)\
+  (od 15. apríla do 31. mája 2010, vernisáž 23. septembra 2010)
 
-v spolupráci soSlovenskou organizáciou pre výskumné a vývojové aktivity (SOVVA)
+- **Letná škola bioinformatiky pre doktorandov 2010**\
+  (5.-11- septembra 2010, Tatranská Lomnica)
 
-Darwinov deň
+- [Spoznaj svoju DNA](/galerie/2010/) v rámci projektu [Noc výskumníkov](http://www.sovva.sk/noc-vyskumnika-2010/) (24. septembra 2010)\
+  v spolupráci so Slovenskou organizáciou pre výskumné a vývojové aktivity (SOVVA)
 
-prednáškové dopoludnie pre stredoškolských študentov, pedagógov a ďalších záujemcov(6. novembra 2009)
+- **Medzi človekom a šimpanzom**\
+  [Pozvánka](Pozvanka_Medzi_clovekom_a_simpanzom.pdf) | [Fotogaléria](/galerie/2010-12-17/)\
+  prednáškové dopoludnie pre stredoškolských študentov, pedagógov a ďalších záujemcov (17. decembra 2010)
 
-Cenu Petra Fedoraza rok 2010 získalDr. Peter Jedlička(19. februára 2010)
+- **39. výročná konferencia o kvasinkách**\
+  Smolenice, 3.-6. mája 2011
 
-[Pozvánka] MiniFotoGaléria
+- [Central European Meeting on Genome Stability and Dynamics](/genome-stability-and-dynamics/)\
+  medzinárodná vedecká konferencia, Bratislava, 13. mája 2011
 
-38. výročná konferencia o kvasinkách
+- **Gény, hormóny, správanie a my**\
+  [Pozvánka](20110617_Pozvanka_Geny-Hormony-Spravanie-a-My.pdf) | [Fotogaléria](/galerie/2011-06-17/)\
+  prednáškové dopoludnie pre stredoškolských študentov, pedagógov a ďalších záujemcov (17. júna 2011)
 
-Smolenice, 11.-14. mája 2010
+- [Letná škola bioinformatiky pre doktorandov 2011](http://compbio.fmph.uniba.sk/events/lsb2011/) [(Pozvánka)](lsb2011-flyer.pdf)\
+  Bratislava, 11.-15. júla 2011
 
-Výstava fotografií “Myanmar a Vietnam - Ľudia a krajina”(od 20. mája 2010)
+- [Cena Dr. Petra Fedora za roky 2011 a 2012](/peter-fedor/fond/)\
+  2.decembra 2011, Prírodovedecká fakulta UK v Bratislave\
+  [Pozvánka](/peter-fedor/pozvanky/Pozvanka_CPF_2011.pdf) | [Mini Fotogaléria](/peter-fedor/galerie/2011-2012/) | [veda.sme.sk](http://veda.sme.sk/c/6183555/udelili-prestizne-ocenenia-petra-fedora.html)
 
-[Pozvánka]
+- [Cena Dr. Petra Fedora za rok 2013](/peter-fedor/fond/)\
+  29.januára 2014, Prírodovedecká fakulta UK v Bratislave\
+  [Pozvánka](/peter-fedor/pozvanky/Pozvanka_CPF_2014.pdf) | [Mini Fotogaléria](/peter-fedor/galerie/2013/)
 
-Veľká fotosúťaž  pri príležitosti 70-teho výročia založenia Prírodovedeckej fakulty UK
-
-(od 15. apríla do 31. mája 2010, vernisáž 23. septembra 2010)
-
-Letná škola bioinformatiky pre doktorandov 2010
-
-(5.-11- septembra 2010, Tatranská Lomnica)
-
-Spoznaj svoju DNAv rámci projektuNoc výskumníkov(24. septembra 2010)
-
-v spolupráci soSlovenskou organizáciou pre výskumné a vývojové aktivity (SOVVA)
-
-Medzi človekom a šimpanzom [Pozvánka][Fotogaléria]
-
-prednáškové dopoludnie pre stredoškolských študentov, pedagógov a ďalších záujemcov(17. decembra 2010)
-
-39. výročná konferencia o kvasinkách
-
-Smolenice, 3.-6. mája 2011
-
-Central European Meeting on Genome Stability and Dynamics
-
-medzinárodná vedecká konferencia, Bratislava, 13. mája 2011
-
-Gény, hormóny, správanie a my[Pozvánka][Fotogaléria]
-
-prednáškové dopoludnie pre stredoškolských študentov, pedagógov a ďalších záujemcov(17. júna 2011)
-
-Letná škola bioinformatiky pre doktorandov 2011[Pozvánka]
-
-Bratislava, 11.-15. júla 2011
-
-Cena Dr. Petra Fedora za roky 2011 a 2012
-
-2.decembra 2011, Prírodovedecká fakulta UK v Bratislave [Pozvánka][MiniFotoGaléria][veda.sme.sk]
-
-Cena Dr. Petra Fedora za rok 2013
-
-29.januára 2014, Prírodovedecká fakulta UK v Bratislave [Pozvánka][MiniFotoGaléria]
-
-41. výročná konferencia o kvasinkách
-
-Smolenice, 20.-23. mája 2014
+- **41. výročná konferencia o kvasinkách**\
+  Smolenice, 20.-23. mája 2014

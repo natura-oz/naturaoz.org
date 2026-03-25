@@ -1,5 +1,6 @@
 ---
 title: "TalNet Project: BioWorkshop & ChemWorkshop"
+aliases: ["/TalNetProject.html"]
 ---
 
 Prírodovedné disciplíny sa zaoberajú štúdiom fenoménov živej prírody s
@@ -79,12 +80,12 @@ prednášky dvoch špičkových odborníkov v oblasti evolučnej biológie,
 [doc. RNDr. Vladimíra Feráka, CSc.](VFerak_Darwinov_dar.pdf). Ich prednášky
 [Darwinov rok](Darwinov_rok.wmv) a [Darwinov dar](Darwinov_dar.wmv) v aule CH1-1
 zhliadlo takmer 250 poslucháčov, z ktorých mnohí sa zapojili do živej diskusie
-a pomohli nám pripraviť príjemnú a užitočnú akciu [(fotogaléria)](TODO).
+a pomohli nám pripraviť príjemnú a užitočnú akciu [(fotogaléria)](/galerie/darwin-day/).
 V najbližších rokoch plánujeme uskutočniť ďalšie podobné akcie zamerané na rôzne
 oblasti biológie.
 
 17\. decembra 2010 sme v aule CH1-1 Prírodovedeckej fakulty Univerzity Komenského
-zorganizovali prednáškové dopoludnie pod názvom "[Medzi človekom a šimpanzom](TODO)".
+zorganizovali prednáškové dopoludnie pod názvom "[Medzi človekom a šimpanzom](/galerie/2010-12-17/)".
 Akcie sa zúčastnilo takmer 200 ľudí, predovšetkým stredoškolských študentov.
 Prvou prednášajúcou bola Jana Bašnáková z Ústavu experimentálnej psychológie SAV.
 V prednáške sa venovala kognitívnym rozdielom šimpanzov a človeka, pričom
@@ -96,7 +97,7 @@ zmien, ktoré nastali po oddelení týchto dvoch primátov od spoločného evolu
 predka.
 
 17\. júna 2011 sme v aule CH1-1 Prírodovedeckej fakulty Univerzity Komenského
-zorganizovali prednáškové dopoludnie pod názvom "[Gény, hormóny, správanie a my](TODO)".
+zorganizovali prednáškové dopoludnie pod názvom "[Gény, hormóny, správanie a my](/galerie/2011-06-17/)".
 
 ---
 
@@ -112,7 +113,7 @@ Prírodovedeckej fakulte UK a na Európskom týždni vedy v Národnom múzeu. Ob
 združenie NATURA podporilo viacero popularizačných akcií, z ktorých viaceré boli
 priamo zamerané na študentov a učiteľov stredných škôl.
 
-[Fotogalérie](TODO)
+[Fotogalérie](/galerie/)
 
 ---
 

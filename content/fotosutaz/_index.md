@@ -8,10 +8,10 @@ Dekan Prírodovedeckej fakulty UK v spolupráci s občianskym združením NATURA
 
 Súťaž prebiehala od 15. apríla 2010 do 31. mája 2010 v dvoch hlavných kategóriach:
 
-- [Kategória A: Od mikrosveta po makrosvet: zázraky prírody](/photo-competition/kategoria-a/)
+- [Kategória A: Od mikrosveta po makrosvet: zázraky prírody](./kategoria-a/)
   - 130 snímok (+ 16 mimo súťaž)
 
-- [Kategória B: Naše naj.../Náš najväčší div prírody/Predstavujeme katedru](/photo-competition/kategoria-b/)
+- [Kategória B: Naše naj.../Náš najväčší div prírody/Predstavujeme katedru](./kategoria-b/)
   - 47 snímok (+ 1 mimo súťaž)
 
 ## Výstava

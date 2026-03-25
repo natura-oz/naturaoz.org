@@ -1,7 +1,7 @@
 ---
 title: "Fond Petra Fedora / Cena Petra Fedora"
 aliases:
-  - ../pozvankyPetraFedora.html"
+  - /FondPetraFedora.html
 ---
 
 **Dr. Peter Fedor** (1947-1990) položil na Slovensku základy interdisciplinárneho
