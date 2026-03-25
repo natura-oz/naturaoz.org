@@ -74,7 +74,7 @@ aliases:
 - **36\. výročná konferencia o kvasinkách**\
   Smolenice, 14.-16. mája 2008
 
-- **Obrázky z ciest**\
+- [Obrázky z ciest](/bulharsko/)\
   výstava fotografií z albumu rodiny Kolarov, Bratislava, 1.2.-30.4.2008
 
 - [Konferencia Evolúcia Quo Vadis?!](http://www.fns.uniba.sk/?evo08)\
