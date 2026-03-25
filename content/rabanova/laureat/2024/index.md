@@ -2,6 +2,7 @@
 title: Cena dr. Ludmily Sedlárovej Rabanovej za rok 2024
 aliases:
   - /laureat2024.html
+  - /My_Albums/Pages/CenaLSR_2024.html
 ---
 
 V deviatom ročníku Ceny dr. Ludmily Sedlárovej-Rabanovej (LSR) za výnimočnú publikáciu v biologických vedách sa stal laureátom Mgr. Jakub Szabó, PhD. z Ústavu molekulárnej biomedicíny Lekárskej fakulty Univerzity Komenského (aktuálne pôsobiaci na Ústave lekárskej fyziky a biofyziky LF UK), za prácu uverejnenú v časopise [*Molecular Psychiatry*](https://www.nature.com/articles/s41380-023-02330-6). Cenu si prevzal 10. decembra 2024 v Prezentačnom centre AMOS Prírodovedeckej fakulty UK na slávnostnom ceremoniáli, ktorý sa uskutočnil pod záštitou dekana fakulty prof. Petra Fedora.
@@ -18,4 +19,6 @@ Tak ako v predchádzajúcich ročníkoch, bol aj tohtoročný ceremoniál príje
 
 ![Dr. Jakub Szabó (Lekárska fakulta UK), laureát Ceny dr. Ludmily Sedlárovej-Rabanovej za rok 2024. Foto: dr. Martina Neboháčová (Katedra biochémie PriF UK).](Jakub_Szabo_detail.jpg)
 
-[Fotogaléria](/My_Albums/Pages/CenaLSR_2024.html)
+## Fotogaléria
+
+{{< gallery columns="3" thumbWidth="300" thumbHeight="200" sort="name" >}}
