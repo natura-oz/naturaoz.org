@@ -1,5 +1,5 @@
 ---
-title: Kučela Lectures / Kuželove semináre
+title: Kužela Lectures / Kuželove semináre
 aliases:
   - /KuzeloveSeminare.html
   - /seminare.html
