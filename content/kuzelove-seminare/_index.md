@@ -51,16 +51,23 @@ We will never forget.
 
 ## Upcoming lecture(s)
 
-- 138\. Lecture [20.03.2026]\
-  **Driving forces of cellular phenotypic fitness under stress**\
-  *Alexis J. Lomakin* - Center for Pathobiochemistry & Genetics, Medical University of Vienna, Austria\
-  [Abstract](./abstrakty/Pozvanka_Alexis_J_Lomakin.pdf)
+t.b.a.
 
 ---
 
 ## Previous lectures
 
 ### 2026
+
+- 140\. Lecture [01.06.2026]\
+  **Spatiotemporal logic of the membrane glycerophospholipidome**\
+  *Cunqi Ye* - Life Sciences Institute, Zhejiang University, China\
+  [Abstract](./abstrakty/pozvanka_Cunqi_Ye.pdf)
+
+- 139\. Lecture [11.05.2026]\
+  **Mycobacterial membrane transporters – a treasure trove for structural biologists and protein biochemists**\
+  *Markus Seeger* - Institute of Medical Microbiology, University of Zürich\
+  [Abstract](./abstrakty/Pozvanka_Seeger_Markus_20260511_F.pdf)
 
 - 138\. Lecture [20.03.2026]\
   **Driving forces of cellular phenotypic fitness under stress**\
