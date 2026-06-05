@@ -9,7 +9,7 @@ Ilkovičova 6 \
 842 15 Bratislava 4
 
 e-mail: [webmaster@naturaoz.org](mailto:webmaster@naturaoz.org)\
-web: <http://www.naturaoz.org/>
+web: <https://naturaoz.org/>
 
 IČO: **30855861**\
 Bankové spojenie: **262 5012 545 / 1100 (Tatra banka, a.s.)**\
