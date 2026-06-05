@@ -51,16 +51,28 @@ We will never forget.
 
 ## Upcoming lecture(s)
 
-- 137\. Lecture [10.11.2025]\
-  **Functional relevance of mycobacterial phenotypic variation**\
-  *Giulia Manina* - Institut Pasteur, Université Paris Cité, Paris, France\
-  [Abstract](./abstrakty/Pozvanka_Giulia_Manina.pdf)
+- 138\. Lecture [20.03.2026]\
+  **Driving forces of cellular phenotypic fitness under stress**\
+  *Alexis J. Lomakin* - Center for Pathobiochemistry & Genetics, Medical University of Vienna, Austria\
+  [Abstract](./abstrakty/Pozvanka_Alexis_J_Lomakin.pdf)
 
 ---
 
 ## Previous lectures
 
+### 2026
+
+- 138\. Lecture [20.03.2026]\
+  **Driving forces of cellular phenotypic fitness under stress**\
+  *Alexis J. Lomakin* - Center for Pathobiochemistry & Genetics, Medical University of Vienna, Austria\
+  [Abstract](./abstrakty/Pozvanka_Alexis_J_Lomakin.pdf)
+
 ### 2025
+
+- 137\. Lecture [10.11.2025]\
+  **Functional relevance of mycobacterial phenotypic variation**\
+  *Giulia Manina* - Institut Pasteur, Université Paris Cité, Paris, France\
+  [Abstract](./abstrakty/Pozvanka_Giulia_Manina.pdf)
 
 - 136\. Lecture [03.10.2025]\
   **From data to insight: Unlocking the potential of large data to discover novel biology**\
