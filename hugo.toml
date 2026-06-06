@@ -5,6 +5,13 @@ title = "NATURA, o.z."
 
 [markup.goldmark.renderer]
   unsafe = true
+  
+[markup.goldmark.parser.attribute]
+block = true
+
+[markup.goldmark.parser]
+wrapStandAloneImageWithinParagraph = false
+
 
 [params]
   description = "NATURA - občianske združenie podporujúce výskumné a vzdelávacie aktivity v biomedicínskych vedách"
