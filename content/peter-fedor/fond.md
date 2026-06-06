@@ -56,7 +56,7 @@ NATURA_.
 - výber uskutočňuje rada Fondu Petra Fedora
 - cena sa môže udeľovať maximálne raz za kalendárny rok
 
-Nomináciu pošlite na adresu: <lubica.benuskova@fmph.uniba.sk>
+
 
 Nominácia musí obsahovať:
 
