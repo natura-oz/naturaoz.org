@@ -92,12 +92,12 @@ od roku 2025:
 ## Cena Petra Fedora za rok 2026
 
 **Mgr. Martin Lukačišin, PhD.**\
-_Katedra genetiky, Prírodovedecká fakulta, Univerzita Komenského v Bratislave_\
+_Katedra genetiky, Prírodovedecká fakulta, Univerzita Komenského v Bratislave_
 
 **Mgr. Vladimír Boža, PhD.**\
-_Katedra aplikovanej informatiky, Fakulta matematiky, fyziky a informatiky, Univerzita Komenského v Bratislave_\
+_Katedra aplikovanej informatiky, Fakulta matematiky, fyziky a informatiky, Univerzita Komenského v Bratislave_
 
-[Pozvánka](../pozvanky/Pozvanka_Cena_Petra_Fedora_2026.pdf) |
+[Pozvánka](../pozvanky/Pozvanka_Cena_Petra_Fedora_2026.pdf) 
 
 ## Cena Petra Fedora za rok 2013
 
