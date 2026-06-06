@@ -9,7 +9,7 @@ Fond dr. Ludmily Sedlárovej Rabanovej a o.z. Natura v spolupráci s Prírodoved
 ### Podmienky:
 
 - Súťaže sa môžu zúčastniť jednotlivci vo veku do 35 rokov, ktorí v čase podávania prihlášky pracujú na slovenskej inštitúcii.
-- Štipendium je určené na finančnú podporu úspešných uchádzačov na pobyt v zahraničnom laboratóriu alebo účasti na zahraničnej vedeckej konferencii alebo workshope z oblasti genetiky (alebo príbuznej oblasti), ktoré sa uskutočnia v priebehu roku 2026.
+- Štipendium je určené na finančnú podporu úspešných uchádzačov na pobyt v zahraničnom laboratóriu alebo účasti na zahraničnej vedeckej konferencii alebo workshope z oblasti genetiky (alebo príbuznej oblasti), ktoré sa uskutočnia v priebehu roku 2027.
 - Maximálna výška štipendia je 1000 EUR. Finančné prostriedky bude možné využiť na krytie nákladov priamo súvisiacich so zahraničným študijným pobytom.
 
 ### Žiadosť o štipendium musí obsahovať:
@@ -32,9 +32,9 @@ Fond dr. Ludmily Sedlárovej Rabanovej a o.z. Natura v spolupráci s Prírodoved
 
 Uvedené súčasti žiadosti je potrebné poslať ako jeden spojený dokument vo formáte pdf na adresu: [stipendiumlsr@naturaoz.org](mailto:stipendiumlsr@naturaoz.org)
 
-- Začiatok podávania žiadostí: 15. september 2025
-- Uzávierka podávania žiadostí: 27. november 2025
+- Začiatok podávania žiadostí: 15. september 2026
+- Uzávierka podávania žiadostí: 26. november 2026
 - Výber uchádzačov bude v kompetencii odbornej komisie vymenovanej dekanom Prírodovedeckej fakulty Univerzity Komenského v Bratislave.
-- Vyhlásenie úspešných uchádzačov: 11. december 2025 počas udeľovania Ceny dr. Ludmily Sedlárovej Rabanovej.
+- Vyhlásenie úspešných uchádzačov: 8. december 2026 počas udeľovania Ceny dr. Ludmily Sedlárovej Rabanovej.
 - Úspešní uchádzači musia do 30 dní po návrate zo zahraničného pobytu odovzdať správu obsahujúcu publikovateľný prehľad získaných výsledkov (vo forme krátkeho článku) a vyúčtovanie pridelených finančných prostriedkov.
-- Úspešní uchádzači budú mať krátku (3 min) prezentáciu získaných výsledkov v rámci odovzdávania Ceny dr. Sedlárovej Rabanovej v decembri 2025. Pokiaľ sa ich zahraničný pobyt skončí po tomto termíne, prezentáciu budú mať v decembri 2026.
+- Úspešní uchádzači budú mať krátku (3 min) prezentáciu získaných výsledkov v rámci odovzdávania Ceny dr. Sedlárovej Rabanovej v decembri 2025. Pokiaľ sa ich zahraničný pobyt skončí po tomto termíne, prezentáciu budú mať v decembri 2027.
