@@ -63,8 +63,8 @@ Nominácia musí obsahovať:
 - meno, adresu, kontakty (telefón, e-mail)
 - krátke zdôvodnenie nominácie
 - životopis
-- zoznam publikácií
-- najvýznamnejšiu prácu ako prílohu
+- zoznam publikácií (prípadne linky na WoS ResearcherID, GoogleScholar, ORCID)
+- najvýznamnejšiu prácu ako prílohu (prípadne link na verziu prístupnú on-line)
 
 ### Rada Fondu Petra Fedora
 
