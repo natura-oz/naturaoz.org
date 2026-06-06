@@ -74,7 +74,7 @@ Nominácia musí obsahovať:
 - Prof. RNDr. Ľubica Beňušková, PhD.
 - Prof. RNDr. Ladislav Kováč, DrSc. - predseda rady FPF
 
-od roku 2009:
+2009 - 2024:
 
 - Prof. RNDr. Ľubica Beňušková, PhD. - predsedkyňa rady FPF
 - RNDr. Peter Griač, DrSc.
@@ -82,7 +82,22 @@ od roku 2009:
 - Prof. RNDr. Jozef Nosek, DrSc.
 - Prof. RNDr. Ľubomír Tomáška, DrSc.
 
+od roku 2025:
+
+- MUDr. RNDr. Dominika Fričová, PhD. - predsedkyňa rady FPF
+- MUDr. Mgr. Tomáš Hromádka, PhD.
+- doc. Mgr. Tomáš Vinař, PhD.
+
 - - -
+## Cena Petra Fedora za rok 2026
+
+**Mgr. Martin Lukačišin, PhD.**\
+_Katedra genetiky, Prírodovedecká fakulta, Univerzita Komenského v Bratislave_\
+
+**Mgr. Vladimír Boža, PhD.**\
+_Katedra aplikovanej informatiky, Fakulta matematiky, fyziky a informatiky, Univerzita Komenského v Bratislave_\
+
+[Pozvánka](../pozvanky/Pozvanka_Cena_Petra_Fedora_2026.pdf) |
 
 ## Cena Petra Fedora za rok 2013
 
