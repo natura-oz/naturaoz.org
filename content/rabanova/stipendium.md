@@ -33,7 +33,7 @@ Fond dr. Ludmily Sedlárovej Rabanovej a o.z. Natura v spolupráci s Prírodoved
 Uvedené súčasti žiadosti je potrebné poslať ako jeden spojený dokument vo formáte pdf na adresu: [stipendiumlsr@naturaoz.org](mailto:stipendiumlsr@naturaoz.org)
 
 - Začiatok podávania žiadostí: 15. september 2026
-- Uzávierka podávania žiadostí: 26. november 2026
+- Uzávierka podávania žiadostí: 25. november 2026
 - Výber uchádzačov bude v kompetencii odbornej komisie vymenovanej dekanom Prírodovedeckej fakulty Univerzity Komenského v Bratislave.
 - Vyhlásenie úspešných uchádzačov: 8. december 2026 počas udeľovania Ceny dr. Ludmily Sedlárovej Rabanovej.
 - Úspešní uchádzači musia do 30 dní po návrate zo zahraničného pobytu odovzdať správu obsahujúcu publikovateľný prehľad získaných výsledkov (vo forme krátkeho článku) a vyúčtovanie pridelených finančných prostriedkov.
