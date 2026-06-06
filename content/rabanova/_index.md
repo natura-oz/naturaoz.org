@@ -52,4 +52,4 @@ Ludmily Sedlárovej Rabanovej](./laboratorium/).
 - [dr. Miroslav Baláž (2022)](/rabanova/laureat/2022/)
 - [dr. Daniel Jablonski (2023)](/rabanova/laureat/2023/)
 - [dr. Jakub Szabó (2024)](/rabanova/laureat/2024/)
-- [dr. Regina Sepšiová & dr. Filip Červenák (2025)]
+- dr. Regina Sepšiová & dr. Filip Červenák (2025)
