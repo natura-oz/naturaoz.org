@@ -37,4 +37,4 @@ Uvedené súčasti žiadosti je potrebné poslať ako jeden spojený dokument vo
 - Výber uchádzačov bude v kompetencii odbornej komisie vymenovanej dekanom Prírodovedeckej fakulty Univerzity Komenského v Bratislave.
 - Vyhlásenie úspešných uchádzačov: 8. december 2026 počas udeľovania Ceny dr. Ludmily Sedlárovej Rabanovej.
 - Úspešní uchádzači musia do 30 dní po návrate zo zahraničného pobytu odovzdať správu obsahujúcu publikovateľný prehľad získaných výsledkov (vo forme krátkeho článku) a vyúčtovanie pridelených finančných prostriedkov.
-- Úspešní uchádzači budú mať krátku (3 min) prezentáciu získaných výsledkov v rámci odovzdávania Ceny dr. Sedlárovej Rabanovej v decembri 2025. Pokiaľ sa ich zahraničný pobyt skončí po tomto termíne, prezentáciu budú mať v decembri 2027.
+- Úspešní uchádzači budú mať krátku (3 min) prezentáciu získaných výsledkov v rámci odovzdávania Ceny dr. Sedlárovej Rabanovej v decembri 2027. Pokiaľ sa ich zahraničný pobyt skončí po tomto termíne, prezentáciu budú mať v decembri 2028.
