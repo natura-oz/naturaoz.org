@@ -59,6 +59,11 @@ t.b.a.
 
 ### 2026
 
+- 141\. Lecture [06.11.2026]\
+  **Pre-empting bacterial infections based on the gut pathobiome**\
+  *Marta Lukačišinová* - Technion–Israel Institute of Technology, Haifa, Israel & Department of Genetics, Faculty of Natural Sciences, Comenius University Bratislava\
+  [Abstract](./abstrakty/Lukacisionova_Marta_abstrakt.pdf)
+  
 - 140\. Lecture [01.06.2026]\
   **Spatiotemporal logic of the membrane glycerophospholipidome**\
   *Cunqi Ye* - Life Sciences Institute, Zhejiang University, China\
